@@ -1,4 +1,18 @@
 def hello():
-    print("Fuck you thats why")
+    print("Xuck you thats why")
+
+
+def hello():
+    print("Xuck you thats why")
+
+
+def hello():
+    print("Xuck you thats why")
+
+def hello():
+    print("Xuck you thats why")
+
+def hello():
+    print("Xuck you thats why")
 
 hello()
