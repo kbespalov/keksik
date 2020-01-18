@@ -1,18 +1,8 @@
-def hello():
-    print("Xuck you thats why")
+delta = 1
+value = 10
+threshold = 5
 
+while value > threshold:
 
-def hello():
-    print("Xuck you thats why")
-
-
-def hello():
-    print("Xuck you thats why")
-
-def hello():
-    print("Xuck you thats why")
-
-def hello():
-    print("Xuck you thats why")
-
-hello()
+    print("value ", value)
+    value = value - delta
